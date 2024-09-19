@@ -94,7 +94,7 @@
                 },
                 "band5": {
                     "frequency": 8000.0,
-                    "gain": 16.0,
+                    "gain": 12.0,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -167,7 +167,7 @@
                 },
                 "band5": {
                     "frequency": 8000.0,
-                    "gain": 16.0,
+                    "gain": 12.0,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
