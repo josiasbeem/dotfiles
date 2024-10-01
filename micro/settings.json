@@ -2,9 +2,6 @@
     "autosu": true,
     "colorcolumn": 80,
     "colorscheme": "custom",
-    "ft:makefile": {
-        "tabstospaces": false
-    },
     "indentchar": "|",
     "relativeruler": true,
     "rmtrailingws": true,
@@ -13,8 +10,6 @@
     "scrollspeed": 10,
     "softwrap": true,
     "sucmd": "doas",
-    "tabmovement": true,
     "tabsize": 2,
-    "tabstospaces": true,
     "wordwrap": true
 }
