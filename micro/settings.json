@@ -1,6 +1,6 @@
 {
     "autosu": true,
-    "colorscheme": "custom-dark",
+    "colorscheme": "custom",
     "indentchar": "│",
     "relativeruler": true,
     "rmtrailingws": true,
