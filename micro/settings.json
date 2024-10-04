@@ -9,6 +9,5 @@
     "scrollspeed": 4,
     "softwrap": true,
     "sucmd": "doas",
-    "tabsize": 2,
     "wordwrap": true
 }
