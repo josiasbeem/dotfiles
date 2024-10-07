@@ -1,7 +1,7 @@
 {
     "autosu": true,
     "colorscheme": "custom",
-    "indentchar": "│",
+    "indentchar": "¦",
     "relativeruler": true,
     "rmtrailingws": true,
     "saveundo": true,
