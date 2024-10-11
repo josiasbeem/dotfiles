@@ -1,14 +1,12 @@
 {
     "autosu": true,
     "colorscheme": "custom",
-    "indentchar": "¦",
-    "relativeruler": true,
+    "indentchar": "·",
     "rmtrailingws": true,
+    "savecursor": true,
     "saveundo": true,
-    "scrollmargin": 1,
-    "scrollspeed": 4,
     "softwrap": true,
-    "tabsize": 8,
     "sucmd": "doas",
+    "tabsize": 8,
     "wordwrap": true
 }
