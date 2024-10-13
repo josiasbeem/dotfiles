@@ -1,5 +1,6 @@
 {
     "autosu": true,
+    "colorcolumn": 80,
     "colorscheme": "custom",
     "indentchar": "·",
     "linter": false,
