@@ -2,10 +2,12 @@
     "autosu": true,
     "colorscheme": "custom",
     "indentchar": "·",
+    "linter": false,
     "rmtrailingws": true,
     "savecursor": true,
     "saveundo": true,
     "softwrap": true,
+    "statusline": false,
     "sucmd": "doas",
     "tabsize": 8,
     "wordwrap": true
