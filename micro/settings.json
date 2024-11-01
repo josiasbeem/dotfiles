@@ -1,7 +1,7 @@
 {
     "autosu": true,
     "colorcolumn": 80,
-    "colorscheme": "custom-green",
+    "colorscheme": "custom-red",
     "indentchar": "·",
     "linter": false,
     "rmtrailingws": true,
