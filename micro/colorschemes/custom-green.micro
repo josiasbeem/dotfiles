@@ -4,6 +4,7 @@ color-link identifier "bold #ffffff"
 # green
 color-link todo "bold underline #00ff00"
 color-link constant "#00ff00"
+color-link special "bold #00ff00"
 
 # 50 %
 color-link statement "bold #808080"
@@ -15,6 +16,7 @@ color-link comment "#404040"
 color-link symbol "#404040"
 color-link line-number "#404040"
 color-link statusline "#404040"
+color-link divider "#000000,#404040"
 
 # 10 %
 color-link indent-char "#1a1a1a"
