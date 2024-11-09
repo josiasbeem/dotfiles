@@ -5,10 +5,10 @@ detect:
 
 rules:
     # colorize the identifiers of {<identifier>} and [<identifier>]
-    - special:
+    - constant:
         start: "\\{"
         end: "\\}"
-    - special:
+    - constant:
         start: "\\["
         end: "\\]"
     # numbers
@@ -17,7 +17,7 @@ rules:
     - default: "[{}\\[\\]]"
     - special: "[&\\\\]"
     # macros
-    - identifier: "\\\\@?[a-zA-Z_]+"
+    - special: "\\\\@?[a-zA-Z_]+"
     - identifier: "\\\\%"
     # comments
     - comment:
