@@ -1,17 +1,16 @@
 {
     "autosu": true,
     "colorcolumn": 80,
-    "colorscheme": "custom-green",
+    "colorscheme": "custom",
     "diffgutter": true,
     "divchars": "│─",
-    "indentchar": "·",
+    "hltaberrors": true,
     "linter": false,
     "rmtrailingws": true,
     "savecursor": true,
     "saveundo": true,
     "softwrap": true,
     "statusline": false,
-    "sucmd": "doas",
     "tabsize": 8,
     "wordwrap": true
 }
