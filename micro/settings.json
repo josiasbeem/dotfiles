@@ -1,4 +1,8 @@
 {
+    "*.txt": {
+    	"tabstospaces": true,
+    	"tabsize": 2
+    },
     "autosu": true,
     "colorcolumn": 80,
     "colorscheme": "custom",
