@@ -14,21 +14,16 @@ color-link diff-deleted "#ff0000"
 # yellow
 color-link diff-modified "#ffff00"
 
-# 50 %
-color-link statement "bold #808080"
-color-link type "bold #808080"
-color-link preproc "bold #808080"
+color-link statement "bold #707070"
+color-link type "bold #707070"
+color-link preproc "bold #707070"
 
-# 25 %
 color-link comment "#404040"
 color-link symbol "#404040"
 color-link line-number "#404040"
 color-link statusline "#404040"
 color-link divider "#000000,#404040"
 
-# 10 %
-color-link tab-error "#1a1a1a"
-
-# 5 %
-color-link color-column "#0d0d0d"
-color-link cursor-line "#0d0d0d"
+color-link tab-error "#0a0a0a"
+color-link color-column "#0a0a0a"
+color-link cursor-line "#0a0a0a"
