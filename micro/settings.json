@@ -3,6 +3,10 @@
     	"tabstospaces": true,
     	"tabsize": 4
     },
+    "README": {
+    	"tabstospaces": true,
+    	"tabsize": 4
+    },
     "autosu": true,
     "colorcolumn": 80,
     "colorscheme": "custom",
