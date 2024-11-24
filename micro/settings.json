@@ -1,9 +1,5 @@
 {
-    "*.txt": {
-    	"tabstospaces": true,
-    	"tabsize": 4
-    },
-    "README": {
+    "ft:unknown": {
     	"tabstospaces": true,
     	"tabsize": 4
     },
