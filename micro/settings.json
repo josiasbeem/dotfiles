@@ -1,20 +1,24 @@
 {
+    "ft:c": {
+        "commenttype": "/* %s */"
+    },
     "ft:unknown": {
     	"tabstospaces": true,
     	"tabsize": 4
     },
     "autosu": true,
-    "colorcolumn": 80,
     "colorscheme": "custom",
     "diffgutter": true,
     "divchars": "│─",
     "hltaberrors": true,
+    "infobar": false,
     "linter": false,
     "rmtrailingws": true,
     "savecursor": true,
     "saveundo": true,
     "softwrap": true,
-    "statusline": false,
+    "statusformatl": " $(status.branch) $(status.hash)",
+    "statusformatr": "$(modified)$(status.vcol) | $(filename) | $(opt:encoding) | $(opt:fileformat) ",
     "tabsize": 8,
     "wordwrap": true
 }
