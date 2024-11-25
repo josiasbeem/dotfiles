@@ -2,11 +2,10 @@
     "ft:c": {
         "commenttype": "/* %s */"
     },
-    "ft:unknown": {
-        "tabstospaces": true,
+    "ft:python": {
         "tabsize": 4
     },
-    "ft:python": {
+    "ft:unknown": {
         "tabstospaces": true,
         "tabsize": 4
     },
