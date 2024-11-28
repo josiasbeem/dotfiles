@@ -22,6 +22,7 @@ color-link comment "#404040"
 color-link symbol "#404040"
 color-link line-number "#404040"
 color-link statusline "#404040"
+
 color-link divider "#000000,#1a1a1a"
 
 color-link tab-error "#0a0a0a"
