@@ -62,7 +62,7 @@
     progress_bar_corners = all
 
     # Corner radius for the icon image.
-    icon_corner_radius = 10
+    icon_corner_radius = 15
 
     # Define which corners to round when drawing the icon image. If icon_corner_radius
     # is set to 0 this option will be ignored.
@@ -84,13 +84,13 @@
     separator_height = 2
 
     # Padding between text and separator.
-    padding = 8
+    padding = 16
 
     # Horizontal padding.
-    horizontal_padding = 8
+    horizontal_padding = 16
 
     # Padding between text and icon.
-    text_icon_padding = 0
+    text_icon_padding = 16
 
     # Defines width in pixels of frame around the notification window.
     # Set to 0 to disable.
@@ -170,7 +170,7 @@
     #   %n  progress value if set without any extra characters
     #   %%  Literal %
     # Markup is allowed
-    format = "<b>%s</b>\n\n<small>%b</small>"
+    format = "<b>%s</b><small>\n\n%b</small>"
 
     # Alignment of message text.
     # Possible values are "left", "center" and "right".
@@ -327,14 +327,14 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#262626"
+    background = "#111111"
     foreground = "#ffffff"
     timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
     #default_icon = /path/to/icon
 
 [urgency_normal]
-    background = "#262626"
+    background = "#111111"
     foreground = "#ffffff"
     timeout = 10
     override_pause_level = 30
@@ -342,7 +342,7 @@
     #default_icon = /path/to/icon
 
 [urgency_critical]
-    background = "#262626"
+    background = "#111111"
     foreground = "#ffffff"
     timeout = 0
     override_pause_level = 60
