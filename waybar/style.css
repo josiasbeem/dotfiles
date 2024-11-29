@@ -1,0 +1,48 @@
+* {
+	border-radius: 5px;
+	min-height: 10px;
+	min-width: 10px;
+	background-color: transparent;
+	color: white;
+	font-family: Noto Sans Mono;
+}
+
+#workspaces button {
+	opacity: 0.1;
+	margin: 5px;
+}
+
+#workspaces button.active,
+#workspaces button:hover {
+	background: #262626;
+	box-shadow: inset 0 0 #262626;
+	transition: all .5s ease-in-out;
+	opacity: 1;
+}
+
+#clock,
+#wireplumber,
+#network,
+#battery {
+	margin: 5px;
+	min-height: 25px;
+}
+
+@keyframes blink {
+	to {
+		color: red;
+		background: white;
+	}
+}
+
+#battery.warning:not(.charging) {
+	animation-name: blink;
+	animation-duration: 1s;
+	animation-timing-function: steps(100);
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+tooltip {
+	background-color: black;
+}

@@ -1,0 +1,49 @@
+{
+	"layer": "top",
+	"position": "left",
+	"margin-left": 20,
+	"margin-top": 20,
+	"margin-bottom": 20,
+	"modules-left": [
+		"hyprland/workspaces"
+	],
+	"modules-center": [
+		"clock"
+	],
+	"modules-right": [
+		"wireplumber",
+		"network",
+		"battery"
+	],
+
+	"clock": {
+		"format": "{:%d\n%m\n%y\n\n%H\n%M\n%S}",
+		"tooltip": false,
+		"interval": 1
+	},
+
+	"wireplumber": {
+		"format": "{icon}",
+		"format-icons": ["", "", ""],
+		"tooltip-format": "{volume}",
+		"interval": 1
+	},
+
+	"network": {
+		"format-wifi": "",
+		"format-ethernet": "",
+		"format-disconnected": "",
+		"tooltip-format": "{essid}",
+		"interval": 1
+	},
+
+	"battery": {
+		"states": {
+			"warning": 25
+		},
+		"format": "{icon}",
+		"format-icons": ["", "", "", "", ""],
+		"tooltip-format": "{capacity}",
+		"interval": 1
+	}
+}
