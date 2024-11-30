@@ -1,27 +1,27 @@
+color-link default "#ffffff,#000000"
 color-link identifier "bold #ffffff"
-color-link statement "bold #ffffff"
-color-link type "bold #ffffff"
-color-link preproc "bold #ffffff"
-
-color-link default "#e6e6e6,#000000"
 
 # green
 color-link todo "bold underline #00ff00"
 color-link constant "#00ff00"
 color-link special "bold #00ff00"
-color-link diff-added "#00ff00"
+color-link diff-added "#00cc00"
 color-link error "#00ff00"
 
 # red
-color-link diff-deleted "#ff0000"
+color-link diff-deleted "#cc0000"
 
 # yellow
-color-link diff-modified "#ffff00"
+color-link diff-modified "#cccc00"
 
-color-link comment "#595959"
-color-link symbol "#595959"
-color-link line-number "#595959"
-color-link statusline "#595959"
+color-link statement "bold #808080"
+color-link type "bold #808080"
+color-link preproc "bold #808080"
+
+color-link comment "#404040"
+color-link symbol "#404040"
+color-link line-number "#404040"
+color-link statusline "#404040"
 
 color-link divider "#000000,#1a1a1a"
 
