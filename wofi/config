@@ -2,3 +2,4 @@ hide_scroll=true
 show=drun
 prompt=
 gtk_dark=true
+width=100%
