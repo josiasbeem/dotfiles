@@ -1,0 +1,22 @@
+---
+BasedOnStyle: Google
+UseTab: ForIndentation
+IndentWidth: 8
+TabWidth: 8
+BreakBeforeBraces: Linux
+AlignAfterOpenBracket: Align
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+PointerAlignment: Right
+InsertNewlineAtEOF: true
+KeepEmptyLines:
+  AtEndOfFile: false
+  AtStartOfBlock: false
+  AtStartOfFile: false
+AllowShortCaseExpressionOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+  AcrossEmptyLines: true
+  AcrossComments: true
+...
