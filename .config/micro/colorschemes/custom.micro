@@ -3,7 +3,9 @@ color-link identifier "bold #ffffff"
 
 # green
 color-link todo "bold underline #00ff00"
-color-link constant "#00ff00"
+color-link constant "bold #00ff00"
+color-link constant.number "#00ff00"
+color-link constant.string "#00ff00"
 color-link special "bold #00ff00"
 color-link diff-added "#00cc00"
 color-link error "#00ff00"
