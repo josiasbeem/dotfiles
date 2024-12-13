@@ -10,6 +10,7 @@
 #workspaces button {
 	opacity: 0.1;
 	margin: 5px;
+	transition: all 1s ease-in-out;
 }
 
 #workspaces button.active,
