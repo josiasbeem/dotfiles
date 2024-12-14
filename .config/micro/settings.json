@@ -15,6 +15,6 @@
     "softwrap": true,
     "statusformatl": " $(status.branch) $(status.hash)",
     "statusformatr": "$(modified)$(status.vcol) | $(filename) | $(opt:encoding) | $(opt:fileformat) ",
-    "tabsize": 4,
+    "tabsize": 6,
     "wordwrap": true
 }
