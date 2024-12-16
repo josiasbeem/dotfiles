@@ -1,20 +1,19 @@
 window {
 	font-family: "Noto Sans Mono";
-	margin: 0px;
-	border: 1px solid #000000;
-	background-color: #1a1a1a;
+	margin: 5px;
+	border: 3px solid #000000;
+	background-color: #e6e6e6;
 	border-radius: 10px;
 }
 
 #input {
-	margin: 5px;
+	margin-bottom: 20px;
 	border: none;
-	color: #ffffff;
-	background-color: #000000;
+	color: #000000;
+	background-color: #ffffff;
 }
 
 #inner-box {
-	margin: 10px;
 	border: none;
 	background-color: transparent;
 }
@@ -22,12 +21,15 @@ window {
 #text {
 	margin: 5px;
 	border: none;
-	color: #ffffff;
+	color: #000000;
 }
 
 #entry:selected {
-	background-color: #333333;
+	background-color: #ffffff;
 	border-radius: 5px;
 	border: 2px solid;
 }
 
+#outer-box {
+	margin: 20px;
+}
