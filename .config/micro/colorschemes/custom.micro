@@ -1,31 +1,31 @@
-color-link default "#000000,#f2f2f2"
-color-link identifier "bold #000000"
-color-link statement "bold #000000"
-color-link type "bold #000000"
-color-link preproc "bold #000000"
-
-color-link tab-error "#ececec"
-color-link color-column "#ececec"
-color-link cursor-line "#ececec"
-
-color-link symbol "#808080"
-
-color-link error "#404040"
-color-link todo "bold underline #404040"
-color-link constant "#404040"
-color-link constant.bool "bold #404040"
-color-link special "#404040"
-
-color-link comment "#a6a6a6"
-color-link line-number "#a6a6a6"
-color-link statusline "#a6a6a6"
-color-link divider "#f2f2f2,#a6a6a6"
+color-link default "#ffffff,#000000"
+color-link identifier "bold #ffffff"
 
 # green
+color-link todo "bold underline #00ff00"
+color-link constant "#00ff00"
+color-link constant.bool "bold #00ff00"
+color-link special "bold #00ff00"
 color-link diff-added "#00cc00"
+color-link error "#00ff00"
 
 # red
-color-link diff-deleted "#ff0000"
+color-link diff-deleted "#cc0000"
 
 # yellow
-color-link diff-modified "#ffd700"
+color-link diff-modified "#cccc00"
+
+color-link statement "bold #808080"
+color-link type "bold #808080"
+color-link preproc "bold #808080"
+
+color-link comment "#404040"
+color-link symbol "#404040"
+color-link line-number "#404040"
+color-link statusline "#404040"
+
+color-link divider "#000000,#1a1a1a"
+
+color-link tab-error "#0a0a0a"
+color-link color-column "#0a0a0a"
+color-link cursor-line "#0a0a0a"
