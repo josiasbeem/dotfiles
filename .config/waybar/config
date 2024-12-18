@@ -17,7 +17,7 @@
 	],
 
 	"clock": {
-		"format": "{:%d\n%m\n%y\n\n%H\n%M\n%S}",
+		"format": "{:%H\n%M\n%S\n\n%d\n%m\n%y}",
 		"tooltip": false,
 		"interval": 1
 	},
