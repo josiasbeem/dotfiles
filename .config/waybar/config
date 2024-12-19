@@ -1,9 +1,11 @@
 {
 	"layer": "top",
-	"position": "left",
+	"position": "top",
+	"output": ["eDP-1"],
 	"margin-left": 20,
-	"margin-top": 20,
-	"margin-bottom": 20,
+	"margin-right": 20,
+	"margin-top": 10,
+	"margin-bottom": -10,
 	"modules-left": [
 		"hyprland/workspaces"
 	],
@@ -17,7 +19,7 @@
 	],
 
 	"clock": {
-		"format": "{:%H\n%M\n%S\n\n%d\n%m\n%y}",
+		"format": "{:%H:%M}",
 		"tooltip": false,
 		"interval": 1
 	},
