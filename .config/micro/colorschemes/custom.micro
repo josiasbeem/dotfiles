@@ -15,9 +15,9 @@ color-link diff-deleted "#cc0000"
 # yellow
 color-link diff-modified "#cccc00"
 
-color-link statement "bold #808080"
-color-link type "bold #808080"
-color-link preproc "bold #808080"
+color-link statement "#808080"
+color-link type "#808080"
+color-link preproc "#808080"
 
 color-link comment "#404040"
 color-link symbol "#404040"
