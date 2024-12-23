@@ -3,9 +3,6 @@
     "colorscheme": "custom",
     "diffgutter": true,
     "divchars": "│─",
-    "ft:c": {
-        "commenttype": "/* %s */"
-    },
     "hltaberrors": true,
     "infobar": false,
     "linter": false,
@@ -15,5 +12,7 @@
     "softwrap": true,
     "statusformatl": " $(status.branch) $(status.hash)",
     "statusformatr": "$(modified)$(status.vcol) | $(filename) | $(opt:encoding) | $(opt:fileformat) ",
+    "tabmovement": true,
+    "tabstospaces": true,
     "wordwrap": true
 }
