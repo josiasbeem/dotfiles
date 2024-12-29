@@ -1,6 +1,4 @@
 function fish_prompt
-    if test "$status" -ne 0
-        set_color --bold
-    end
+    tput cup $COLUMNS 0
     echo -n '$ '
 end
