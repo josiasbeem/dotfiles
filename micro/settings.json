@@ -13,5 +13,6 @@
     "statusformatl": " $(status.branch) $(status.hash)",
     "statusformatr": "$(modified)$(status.vcol) | $(filename) | $(opt:encoding) | $(opt:fileformat) ",
     "tabmovement": true,
+    "tabstospaces": true,
     "wordwrap": true
 }
