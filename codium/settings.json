@@ -10,5 +10,14 @@
     "editor.stickyTabStops": true,
     "editor.bracketPairColorization.enabled": false,
     "git.confirmSync": false,
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "latexmk (xelatex)",
+            "tools": [
+                "xelatexmk"
+            ]
+        }
+    ],
+    "latex-workshop.latex.autoClean.run": "onBuilt"
 }
