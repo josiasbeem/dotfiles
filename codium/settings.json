@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "editor.fontLigatures": "'ss03', 'ss05', 'ss08'",
+    "editor.fontSize": 18,
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "GitHub Light Monochrome",
+    "window.menuBarVisibility": "toggle",
+    "workbench.editor.empty.hint": "hidden",
+    "files.trimTrailingWhitespace": true,
+    "editor.stickyTabStops": true
+}
