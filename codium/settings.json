@@ -7,5 +7,6 @@
     "window.menuBarVisibility": "toggle",
     "workbench.editor.empty.hint": "hidden",
     "files.trimTrailingWhitespace": true,
-    "editor.stickyTabStops": true
+    "editor.stickyTabStops": true,
+    "editor.bracketPairColorization.enabled": false
 }
