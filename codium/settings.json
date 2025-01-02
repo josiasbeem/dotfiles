@@ -19,5 +19,6 @@
             ]
         }
     ],
-    "latex-workshop.latex.autoClean.run": "onBuilt"
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "editor.wordWrap": "on"
 }
