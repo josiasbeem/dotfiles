@@ -9,5 +9,6 @@
     "files.trimTrailingWhitespace": true,
     "editor.stickyTabStops": true,
     "editor.bracketPairColorization.enabled": false,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "redhat.telemetry.enabled": false
 }
