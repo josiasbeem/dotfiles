@@ -8,5 +8,6 @@
     "workbench.editor.empty.hint": "hidden",
     "files.trimTrailingWhitespace": true,
     "editor.stickyTabStops": true,
-    "editor.bracketPairColorization.enabled": false
+    "editor.bracketPairColorization.enabled": false,
+    "git.confirmSync": false
 }
