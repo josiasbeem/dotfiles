@@ -20,5 +20,6 @@
         }
     ],
     "latex-workshop.latex.autoClean.run": "onBuilt",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "none"
 }
