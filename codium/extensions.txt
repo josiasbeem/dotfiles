@@ -1,0 +1,8 @@
+haskell.haskell
+huytd.github-light-monochrome
+james-yu.latex-workshop
+justusadam.language-haskell
+llvm-vs-code-extensions.vscode-clangd
+redhat.java
+rust-lang.rust-analyzer
+usernamehw.errorlens
