@@ -61,7 +61,6 @@
         "%DOCFILE%.bcf"
     ],
     "editor.formatOnSave": true,
-    "editor.snippets.codeActions.enabled": false,
     "latex-workshop.latex.autoClean.run": "onBuilt",
     "formattingToggle.affects": [
         "editor.formatOnSave"
