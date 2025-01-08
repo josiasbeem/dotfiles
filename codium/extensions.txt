@@ -5,4 +5,5 @@ justusadam.language-haskell
 llvm-vs-code-extensions.vscode-clangd
 redhat.java
 rust-lang.rust-analyzer
+tombonnike.vscode-status-bar-format-toggle
 usernamehw.errorlens
