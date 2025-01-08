@@ -65,5 +65,11 @@
     "formattingToggle.affects": [
         "editor.formatOnSave"
     ],
-    "errorLens.onSave": true
+    "errorLens.onSave": true,
+    "[haskell]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    }
 }
