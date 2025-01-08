@@ -64,5 +64,6 @@
     "latex-workshop.latex.autoClean.run": "onBuilt",
     "formattingToggle.affects": [
         "editor.formatOnSave"
-    ]
+    ],
+    "errorLens.onSave": true
 }
