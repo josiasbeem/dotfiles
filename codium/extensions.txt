@@ -7,3 +7,4 @@ redhat.java
 rust-lang.rust-analyzer
 tombonnike.vscode-status-bar-format-toggle
 usernamehw.errorlens
+vadimcn.vscode-lldb
