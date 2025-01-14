@@ -1,36 +1,34 @@
 {
+    "[c]": {
+        "editor.formatOnSave": false
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontFamily": "'Fira Code', 'monospace', monospace",
     "editor.fontLigatures": "'ss02', 'ss03', 'ss05', 'ss08', 'ss09', 'cv24",
     "editor.fontSize": 18,
-    "files.insertFinalNewline": true,
-    "workbench.colorTheme": "GitHub Light Monochrome",
-    "window.menuBarVisibility": "toggle",
-    "workbench.editor.empty.hint": "hidden",
-    "files.trimTrailingWhitespace": true,
-    "editor.stickyTabStops": true,
-    "editor.bracketPairColorization.enabled": false,
-    "git.confirmSync": false,
-    "redhat.telemetry.enabled": false,
-    "latex-workshop.latex.recipes": [
-        {
-            "name": "latexmk (xelatex)",
-            "tools": [
-                "xelatexmk"
-            ]
-        }
-    ],
-    "editor.wordWrap": "on",
-    "workbench.startupEditor": "none",
-    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.formatOnSave": true,
     "editor.smoothScrolling": true,
-    "terminal.integrated.smoothScrolling": true,
-    "terminal.integrated.fontLigatures": true,
+    "editor.stickyTabStops": true,
+    "editor.wordWrap": "on",
+    "errorLens.onSave": true,
+    "explorer.confirmDelete": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "formattingToggle.affects": [
+        "editor.formatOnSave"
+    ],
+    "git.confirmSync": false,
+    "[haskell]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.intellisense.citation.backend": "biblatex",
-    "latex-workshop.message.error.show": false,
-    "latex-workshop.message.warning.show": false,
-    "explorer.confirmDelete": false,
-    "latex-workshop.latex.clean.method": "glob",
+    "latex-workshop.latex.autoClean.run": "onBuilt",
     "latex-workshop.latex.clean.fileTypes": [
         "%DOCFILE%.aux",
         "%DOCFILE%.bbl",
@@ -60,16 +58,22 @@
         "%DOCFILE%.run.xml",
         "%DOCFILE%.bcf"
     ],
-    "editor.formatOnSave": true,
-    "latex-workshop.latex.autoClean.run": "onBuilt",
-    "formattingToggle.affects": [
-        "editor.formatOnSave"
+    "latex-workshop.latex.clean.method": "glob",
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "latexmk (xelatex)",
+            "tools": [
+                "xelatexmk"
+            ]
+        }
     ],
-    "errorLens.onSave": true,
-    "[haskell]": {
-        "editor.tabSize": 2
-    },
-    "[html]": {
-        "editor.tabSize": 2
-    }
+    "latex-workshop.message.error.show": false,
+    "latex-workshop.message.warning.show": false,
+    "redhat.telemetry.enabled": false,
+    "terminal.integrated.fontLigatures": true,
+    "terminal.integrated.smoothScrolling": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "GitHub Light Monochrome",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.startupEditor": "none"
 }
