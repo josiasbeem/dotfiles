@@ -1,7 +1,6 @@
 {
-    "[c]": {
-        "editor.formatOnSave": false
-    },
+    "database-client.autoSync": true,
+    "database-client.telemetry.usesOnlineServices": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.bracketPairColorization.enabled": false,
     "editor.cursorSmoothCaretAnimation": "on",
@@ -29,7 +28,6 @@
         "editor.tabSize": 2
     },
     "latex-workshop.formatting.latex": "latexindent",
-    "latex-workshop.intellisense.citation.backend": "biblatex",
     "latex-workshop.latex.autoClean.run": "onBuilt",
     "latex-workshop.latex.clean.fileTypes": [
         "%DOCFILE%.aux",
@@ -76,7 +74,11 @@
     "terminal.integrated.smoothScrolling": true,
     "window.menuBarVisibility": "toggle",
     "window.restoreWindows": "none",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#000000"
+    },
     "workbench.colorTheme": "GitHub Light Monochrome",
     "workbench.editor.empty.hint": "hidden",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none"
 }
