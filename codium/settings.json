@@ -1,6 +1,5 @@
 {
-    "database-client.autoSync": true,
-    "database-client.telemetry.usesOnlineServices": false,
+    "chat.commandCenter.enabled": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.bracketPairColorization.enabled": false,
     "editor.cursorSmoothCaretAnimation": "on",
@@ -9,7 +8,6 @@
     "editor.fontSize": 18,
     "editor.formatOnSave": true,
     "editor.lightbulb.enabled": "off",
-    "editor.occurrencesHighlight": "off",
     "editor.smoothScrolling": true,
     "editor.stickyTabStops": true,
     "editor.wordWrap": "on",
@@ -73,7 +71,6 @@
     "terminal.integrated.fontLigatures": true,
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.smoothScrolling": true,
-    "window.menuBarVisibility": "toggle",
     "window.restoreWindows": "none",
     "workbench.colorCustomizations": {
         "editorCursor.foreground": "#000000"
@@ -82,6 +79,5 @@
     "workbench.editor.empty.hint": "hidden",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.panel.opensMaximized": "always",
-    "workbench.startupEditor": "none",
-    "zig.zls.enabled": "on"
+    "workbench.startupEditor": "none"
 }

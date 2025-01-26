@@ -1,14 +1,9 @@
-cweijan.dbclient-jdbc
-cweijan.vscode-mysql-client2
 ecmel.vscode-html-css
 haskell.haskell
 huytd.github-light-monochrome
 james-yu.latex-workshop
 justusadam.language-haskell
 llvm-vs-code-extensions.vscode-clangd
-ms-ceintl.vscode-language-pack-de
-ms-python.debugpy
-ms-python.python
 pkief.material-icon-theme
 redhat.java
 rust-lang.rust-analyzer
@@ -16,10 +11,4 @@ tamasfe.even-better-toml
 tombonnike.vscode-status-bar-format-toggle
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscjava.vscode-gradle
 vscjava.vscode-java-debug
-vscjava.vscode-java-dependency
-vscjava.vscode-java-pack
-vscjava.vscode-java-test
-vscjava.vscode-maven
-ziglang.vscode-zig
