@@ -80,7 +80,7 @@
     "workbench.colorTheme": "GitHub Light Monochrome",
     "workbench.editor.empty.hint": "hidden",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.panel.defaultLocation": "right",
+    "workbench.panel.opensMaximized": "always",
     "workbench.startupEditor": "none",
     "zig.zls.enabled": "on"
 }
