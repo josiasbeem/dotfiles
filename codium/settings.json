@@ -71,6 +71,7 @@
     "latex-workshop.message.warning.show": false,
     "redhat.telemetry.enabled": false,
     "terminal.integrated.fontLigatures": true,
+    "terminal.integrated.fontSize": 18,
     "terminal.integrated.smoothScrolling": true,
     "window.menuBarVisibility": "toggle",
     "window.restoreWindows": "none",
