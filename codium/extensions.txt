@@ -1,3 +1,4 @@
+daylerees.rainglow
 ecmel.vscode-html-css
 haskell.haskell
 huytd.github-light-monochrome
