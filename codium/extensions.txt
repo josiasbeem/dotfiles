@@ -5,6 +5,8 @@ huytd.github-light-monochrome
 james-yu.latex-workshop
 justusadam.language-haskell
 llvm-vs-code-extensions.vscode-clangd
+ms-python.debugpy
+ms-python.python
 pkief.material-icon-theme
 redhat.java
 rust-lang.rust-analyzer
