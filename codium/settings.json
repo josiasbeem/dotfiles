@@ -87,6 +87,7 @@
     "latex-workshop.message.error.show": false,
     "latex-workshop.message.warning.show": false,
     "redhat.telemetry.enabled": false,
+    "terminal.integrated.focusAfterRun": "terminal",
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.smoothScrolling": true,
     "window.autoDetectColorScheme": true,
