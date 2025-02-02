@@ -1,5 +1,6 @@
 daylerees.rainglow
 ecmel.vscode-html-css
+esbenp.prettier-vscode
 haskell.haskell
 huytd.github-light-monochrome
 james-yu.latex-workshop
@@ -16,3 +17,7 @@ usernamehw.errorlens
 vadimcn.vscode-lldb
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven

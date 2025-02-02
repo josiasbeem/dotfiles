@@ -28,6 +28,7 @@
         "redhat",
         "james-yu",
         "pkief",
+        "esbenp",
         "ms-python",
         "daylerees",
         "rust-lang"
@@ -42,8 +43,12 @@
         "editor.tabSize": 2
     },
     "[html]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.latex.autoClean.run": "onBuilt",
     "latex-workshop.latex.clean.fileTypes": [
