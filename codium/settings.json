@@ -9,6 +9,7 @@
     "editor.inlayHints.enabled": "offUnlessPressed",
     "editor.lightbulb.enabled": "off",
     "editor.lineHeight": 30,
+    "editor.occurrencesHighlight": "off",
     "editor.smoothScrolling": true,
     "editor.stickyTabStops": true,
     "editor.wordWrap": "on",
@@ -21,7 +22,7 @@
         "usernamehw",
         "tamasfe",
         "tombonnike",
-        "huytd",
+        "github",
         "haskell",
         "justusadam",
         "ecmel",
@@ -30,7 +31,6 @@
         "pkief",
         "esbenp",
         "ms-python",
-        "daylerees",
         "rust-lang"
     ],
     "files.insertFinalNewline": true,
@@ -103,7 +103,7 @@
     "workbench.editor.empty.hint": "hidden",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.panel.opensMaximized": "always",
-    "workbench.preferredDarkColorTheme": "Heroku Contrast (rainglow)",
-    "workbench.preferredLightColorTheme": "GitHub Light Monochrome",
+    "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+    "workbench.preferredLightColorTheme": "GitHub Light Default",
     "workbench.startupEditor": "none"
 }

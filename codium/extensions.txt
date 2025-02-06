@@ -1,8 +1,7 @@
-daylerees.rainglow
 ecmel.vscode-html-css
 esbenp.prettier-vscode
+github.github-vscode-theme
 haskell.haskell
-huytd.github-light-monochrome
 james-yu.latex-workshop
 justusadam.language-haskell
 llvm-vs-code-extensions.vscode-clangd
