@@ -38,10 +38,10 @@
         "ecmel",
         "redhat",
         "james-yu",
-        "pkief",
         "esbenp",
         "ms-python",
-        "rust-lang"
+        "rust-lang",
+        "laurenttreguier"
     ],
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
@@ -105,7 +105,7 @@
     "window.restoreWindows": "none",
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.tabActionCloseVisibility": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "minimalistic-icons",
     "workbench.layoutControl.enabled": false,
     "workbench.panel.opensMaximized": "always",
     "workbench.preferredDarkColorTheme": "Monochromator Dark",
