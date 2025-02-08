@@ -108,6 +108,8 @@
     "workbench.layoutControl.enabled": false,
     "workbench.panel.opensMaximized": "always",
     "workbench.preferredDarkColorTheme": "Monochromator Dark",
+    "workbench.preferredHighContrastColorTheme": "Monochromator Dark (High Contrast)",
+    "workbench.preferredHighContrastLightColorTheme": "Monochromator Light (High Contrast)",
     "workbench.preferredLightColorTheme": "Monochromator Light",
     "workbench.startupEditor": "none"
 }
