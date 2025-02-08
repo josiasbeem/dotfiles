@@ -1,4 +1,14 @@
 {
+    "[haskell]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
     "chat.commandCenter.enabled": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.bracketPairColorization.enabled": false,
@@ -39,19 +49,10 @@
         "editor.formatOnSave"
     ],
     "git.confirmSync": false,
-    "[haskell]": {
-        "editor.tabSize": 2
-    },
-    "[html]": {
-        "editor.tabSize": 2,
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+    "haskell.manageHLS": "GHCup",
     "java.project.sourcePaths": [
         "src"
     ],
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.latex.autoClean.run": "onBuilt",
     "latex-workshop.latex.clean.fileTypes": [
