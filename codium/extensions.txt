@@ -1,6 +1,6 @@
+beem.monochromator
 ecmel.vscode-html-css
 esbenp.prettier-vscode
-github.github-vscode-theme
 haskell.haskell
 james-yu.latex-workshop
 justusadam.language-haskell

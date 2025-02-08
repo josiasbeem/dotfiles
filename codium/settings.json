@@ -2,7 +2,7 @@
     "chat.commandCenter.enabled": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.bracketPairColorization.enabled": false,
-    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
     "editor.fontSize": 18,
     "editor.formatOnSave": true,
@@ -10,6 +10,7 @@
     "editor.lightbulb.enabled": "off",
     "editor.lineHeight": 30,
     "editor.occurrencesHighlight": "off",
+    "editor.renderLineHighlight": "none",
     "editor.smoothScrolling": true,
     "editor.stickyTabStops": true,
     "editor.wordWrap": "on",
@@ -22,7 +23,6 @@
         "usernamehw",
         "tamasfe",
         "tombonnike",
-        "github",
         "haskell",
         "justusadam",
         "ecmel",
@@ -49,6 +49,9 @@
     "java.project.sourcePaths": [
         "src"
     ],
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.latex.autoClean.run": "onBuilt",
     "latex-workshop.latex.clean.fileTypes": [
@@ -96,14 +99,15 @@
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.smoothScrolling": true,
     "window.autoDetectColorScheme": true,
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "compact",
     "window.restoreWindows": "none",
-    "workbench.colorCustomizations": {
-        "editorCursor.foreground": "#808080"
-    },
     "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.tabActionCloseVisibility": false,
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.layoutControl.enabled": false,
     "workbench.panel.opensMaximized": "always",
-    "workbench.preferredDarkColorTheme": "GitHub Dark Default",
-    "workbench.preferredLightColorTheme": "GitHub Light Default",
+    "workbench.preferredDarkColorTheme": "Monochromator Dark",
+    "workbench.preferredLightColorTheme": "Monochromator Light",
     "workbench.startupEditor": "none"
 }
