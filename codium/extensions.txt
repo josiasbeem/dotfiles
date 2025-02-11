@@ -1,10 +1,8 @@
 beem.monochromator
 ecmel.vscode-html-css
-esbenp.prettier-vscode
 haskell.haskell
 james-yu.latex-workshop
 justusadam.language-haskell
-laurenttreguier.vscode-simple-icons
 llvm-vs-code-extensions.vscode-clangd
 ms-python.debugpy
 ms-python.python

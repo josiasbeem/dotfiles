@@ -3,7 +3,6 @@
         "editor.tabSize": 2
     },
     "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.tabSize": 2
     },
     "[json]": {
@@ -21,6 +20,7 @@
     "editor.lineHeight": 30,
     "editor.occurrencesHighlight": "off",
     "editor.renderLineHighlight": "none",
+    "editor.roundedSelection": false,
     "editor.smoothScrolling": true,
     "editor.stickyTabStops": true,
     "editor.wordWrap": "on",
@@ -38,10 +38,8 @@
         "ecmel",
         "redhat",
         "james-yu",
-        "esbenp",
         "ms-python",
-        "rust-lang",
-        "laurenttreguier"
+        "rust-lang"
     ],
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
@@ -105,7 +103,6 @@
     "window.restoreWindows": "none",
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.tabActionCloseVisibility": false,
-    "workbench.iconTheme": "minimalistic-icons",
     "workbench.layoutControl.enabled": false,
     "workbench.panel.opensMaximized": "always",
     "workbench.preferredDarkColorTheme": "Monochromator Dark",
