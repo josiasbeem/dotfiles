@@ -39,8 +39,7 @@
         "redhat",
         "james-yu",
         "ms-python",
-        "rust-lang",
-        "laurenttreguier"
+        "rust-lang"
     ],
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
@@ -98,13 +97,15 @@
     "terminal.integrated.focusAfterRun": "terminal",
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.smoothScrolling": true,
+    "window.autoDetectColorScheme": true,
     "window.commandCenter": false,
     "window.menuBarVisibility": "compact",
     "window.restoreWindows": "none",
-    "workbench.colorTheme": "Monochromator",
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.tabActionCloseVisibility": false,
     "workbench.layoutControl.enabled": false,
     "workbench.panel.opensMaximized": "always",
+    "workbench.preferredDarkColorTheme": "Monochromator Dark",
+    "workbench.preferredLightColorTheme": "Monochromator Light",
     "workbench.startupEditor": "none"
 }
