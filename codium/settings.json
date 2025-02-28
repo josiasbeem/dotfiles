@@ -17,7 +17,7 @@
     "editor.cursorBlinking": "solid",
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
     "editor.formatOnSave": true,
     "editor.lightbulb.enabled": "off",
     "editor.lineHeight": 30,
