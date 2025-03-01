@@ -10,7 +10,6 @@ redhat.java
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
 tombonnike.vscode-status-bar-format-toggle
-usernamehw.errorlens
 vadimcn.vscode-lldb
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
