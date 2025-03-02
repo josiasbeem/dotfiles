@@ -26,7 +26,6 @@
     "editor.renderLineHighlight": "none",
     "editor.roundedSelection": false,
     "editor.selectionHighlight": false,
-    "editor.smoothScrolling": true,
     "editor.stickyTabStops": true,
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
