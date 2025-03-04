@@ -8,6 +8,9 @@
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
+    "[racket]": {
+        "editor.tabSize": 2
+    },
     "breadcrumbs.enabled": false,
     "breadcrumbs.icons": false,
     "chat.commandCenter.enabled": false,
@@ -41,6 +44,7 @@
         "ecmel",
         "redhat",
         "james-yu",
+        "evzen-wybitul",
         "ms-python",
         "rust-lang"
     ],

@@ -1,5 +1,6 @@
 beem.monochromator
 ecmel.vscode-html-css
+evzen-wybitul.magic-racket
 haskell.haskell
 james-yu.latex-workshop
 justusadam.language-haskell
