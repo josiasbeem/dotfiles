@@ -13,7 +13,6 @@
     },
     "breadcrumbs.enabled": false,
     "breadcrumbs.icons": false,
-    "chat.commandCenter.enabled": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.bracketPairColorization.enabled": false,
     "editor.colorDecorators": false,
@@ -53,6 +52,7 @@
     "formattingToggle.affects": [
         "editor.formatOnSave"
     ],
+    "git.autofetch": true,
     "git.confirmSync": false,
     "haskell.manageHLS": "GHCup",
     "java.project.sourcePaths": [
