@@ -32,6 +32,7 @@
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
     "extensions.trustedPublishers": [
+        "beem",
         "ecmel",
         "evzen-wybitul",
         "haskell",
