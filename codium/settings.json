@@ -31,23 +31,6 @@
     "editor.stickyTabStops": true,
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
-    "extensions.trustedPublishers": [
-        "beem",
-        "ecmel",
-        "evzen-wybitul",
-        "haskell",
-        "james-yu",
-        "justusadam",
-        "llvm-vs-code-extensions",
-        "ms-python",
-        "mtxr",
-        "redhat",
-        "rust-lang",
-        "tamasfe",
-        "tombonnike",
-        "vadimcn",
-        "vscjava"
-    ],
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "formattingToggle.affects": [
