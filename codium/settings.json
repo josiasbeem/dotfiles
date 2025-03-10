@@ -79,6 +79,8 @@
     "latex-workshop.latex.clean.method": "glob",
     "latex-workshop.message.error.show": false,
     "latex-workshop.message.warning.show": false,
+    "latex-workshop.view.pdf.invert": 0.882,
+    "latex-workshop.view.pdf.invertMode.enabled": "auto",
     "redhat.telemetry.enabled": false,
     "terminal.integrated.focusAfterRun": "terminal",
     "terminal.integrated.fontSize": 18,
