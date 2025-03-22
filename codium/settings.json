@@ -72,7 +72,8 @@
         "%DOCFILE%.xdv",
         "%DOCFILE%.synctex.gz",
         "%DOCFILE%.run.xml",
-        "%DOCFILE%.bcf"
+        "%DOCFILE%.bcf",
+        "missfont.log"
     ],
     "latex-workshop.latex.clean.method": "glob",
     "latex-workshop.message.error.show": false,
