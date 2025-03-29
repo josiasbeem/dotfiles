@@ -4,6 +4,7 @@ evzen-wybitul.magic-racket
 haskell.haskell
 james-yu.latex-workshop
 justusadam.language-haskell
+leanprover.lean4
 llvm-vs-code-extensions.vscode-clangd
 ms-python.debugpy
 ms-python.python
