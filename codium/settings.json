@@ -73,7 +73,8 @@
         "%DOCFILE%.synctex.gz",
         "%DOCFILE%.run.xml",
         "%DOCFILE%.bcf",
-        "missfont.log"
+        "missfont.log",
+        "%DOCFILE%.thm"
     ],
     "latex-workshop.latex.clean.method": "glob",
     "latex-workshop.message.error.show": false,
