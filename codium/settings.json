@@ -74,6 +74,27 @@
         "%DOCFILE%.thm"
     ],
     "latex-workshop.latex.clean.method": "glob",
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "pdflatex-shell-escape-recipe",
+            "tools": [
+                "pdflatex-shell-escape"
+            ]
+        }
+    ],
+    "latex-workshop.latex.tools": [
+        {
+            "args": [
+                "--shell-escape",
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "%DOC%"
+            ],
+            "command": "pdflatex",
+            "name": "pdflatex-shell-escape"
+        }
+    ],
     "latex-workshop.message.error.show": false,
     "latex-workshop.message.warning.show": false,
     "latex-workshop.view.pdf.invert": 0.882,
