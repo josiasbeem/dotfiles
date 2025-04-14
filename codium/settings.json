@@ -41,58 +41,40 @@
     "git.confirmSync": false,
     "haskell.manageHLS": "GHCup",
     "latex-workshop.formatting.latex": "latexindent",
-    "latex-workshop.latex.autoClean.run": "onBuilt",
-    "latex-workshop.latex.clean.fileTypes": [
-        "%DOCFILE%.aux",
-        "%DOCFILE%.bbl",
-        "%DOCFILE%.blg",
-        "%DOCFILE%.idx",
-        "%DOCFILE%.ind",
-        "%DOCFILE%.lof",
-        "%DOCFILE%.lot",
-        "%DOCFILE%.out",
-        "%DOCFILE%.toc",
-        "%DOCFILE%.acn",
-        "%DOCFILE%.acr",
-        "%DOCFILE%.alg",
-        "%DOCFILE%.glg",
-        "%DOCFILE%.glo",
-        "%DOCFILE%.gls",
-        "%DOCFILE%.fls",
-        "%DOCFILE%.log",
-        "%DOCFILE%.fdb_latexmk",
-        "%DOCFILE%.snm",
-        "%DOCFILE%.synctex(busy)",
-        "%DOCFILE%.synctex.gz(busy)",
-        "%DOCFILE%.nav",
-        "%DOCFILE%.vrb",
-        "%DOCFILE%.xdv",
-        "%DOCFILE%.synctex.gz",
-        "%DOCFILE%.run.xml",
-        "%DOCFILE%.bcf",
-        "missfont.log",
-        "%DOCFILE%.thm"
-    ],
     "latex-workshop.latex.clean.method": "glob",
     "latex-workshop.latex.recipes": [
         {
-            "name": "pdflatex-shell-escape-recipe",
+            "name": "pdflatex-recipe",
             "tools": [
-                "pdflatex-shell-escape"
+                "compile",
+                "compile",
+                "clean"
             ]
         }
     ],
     "latex-workshop.latex.tools": [
         {
             "args": [
-                "--shell-escape",
                 "-synctex=1",
                 "-interaction=nonstopmode",
                 "-file-line-error",
+                "-shell-escape",
                 "%DOC%"
             ],
             "command": "pdflatex",
-            "name": "pdflatex-shell-escape"
+            "name": "compile"
+        },
+        {
+            "args": [
+                "-f",
+                "%DOCFILE%.aux",
+                "%DOCFILE%.log",
+                "%DOCFILE%.synctex.gz",
+                "%DOCFILE%.thm",
+                "%DOCFILE%.toc"
+            ],
+            "command": "rm",
+            "name": "clean"
         }
     ],
     "latex-workshop.message.error.show": false,
