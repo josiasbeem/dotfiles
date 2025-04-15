@@ -18,7 +18,6 @@
     "editor.bracketPairColorization.enabled": false,
     "editor.colorDecorators": false,
     "editor.cursorBlinking": "solid",
-    "editor.fontFamily": "'IBM Plex Mono'",
     "editor.fontSize": 18,
     "editor.formatOnSave": true,
     "editor.inlayHints.enabled": "offUnlessPressed",
