@@ -23,7 +23,7 @@
     "editor.formatOnSave": true,
     "editor.inlayHints.enabled": "offUnlessPressed",
     "editor.lightbulb.enabled": "off",
-    "editor.lineHeight": 30,
+    "editor.lineHeight": 1.5,
     "editor.links": false,
     "editor.occurrencesHighlight": "off",
     "editor.renderLineHighlight": "none",
