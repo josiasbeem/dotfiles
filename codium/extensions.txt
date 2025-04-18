@@ -8,6 +8,7 @@ llvm-vs-code-extensions.vscode-clangd
 ms-python.debugpy
 ms-python.python
 mtxr.sqltools
+pkief.material-icon-theme
 redhat.java
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
