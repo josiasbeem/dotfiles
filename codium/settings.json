@@ -74,6 +74,7 @@
     "ltex.language": "de-AT",
     "material-icon-theme.saturation": 0,
     "redhat.telemetry.enabled": false,
+    "sqltools.highlightQuery": false,
     "terminal.integrated.focusAfterRun": "terminal",
     "terminal.integrated.fontSize": 18,
     "window.autoDetectColorScheme": true,
