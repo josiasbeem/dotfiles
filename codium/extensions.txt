@@ -14,7 +14,6 @@ rust-lang.rust-analyzer
 tamasfe.even-better-toml
 tombonnike.vscode-status-bar-format-toggle
 vadimcn.vscode-lldb
-valentjn.vscode-ltex
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
 vscjava.vscode-java-dependency

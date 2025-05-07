@@ -8,7 +8,6 @@
     "[racket]": {
         "editor.tabSize": 2
     },
-    "breadcrumbs.enabled": false,
     "chat.commandCenter.enabled": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.cursorBlinking": "solid",
@@ -70,12 +69,9 @@
     "latex-workshop.message.warning.show": false,
     "latex-workshop.view.pdf.invert": 0.882,
     "latex-workshop.view.pdf.invertMode.enabled": "auto",
-    "ltex.enabled": [
-        "latex"
-    ],
-    "ltex.language": "de-AT",
     "material-icon-theme.saturation": 0,
     "redhat.telemetry.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
     "sqltools.highlightQuery": false,
     "terminal.integrated.focusAfterRun": "terminal",
     "terminal.integrated.fontSize": 18,
@@ -86,7 +82,7 @@
     "workbench.layoutControl.enabled": false,
     "workbench.panel.opensMaximized": "always",
     "workbench.preferredDarkColorTheme": "Monochromator Dark",
-    "workbench.preferredLightColorTheme": "Monochromator Light",
+    "workbench.preferredLightColorTheme": "Monochromator Light Amber",
     "workbench.settings.editor": "json",
     "workbench.startupEditor": "none"
 }
