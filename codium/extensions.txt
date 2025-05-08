@@ -1,15 +1,14 @@
 beem.monochromator
 ecmel.vscode-html-css
 evzen-wybitul.magic-racket
-haskell.haskell
 james-yu.latex-workshop
-justusadam.language-haskell
 llvm-vs-code-extensions.vscode-clangd
 ms-python.debugpy
 ms-python.python
 mtxr.sqltools
 pkief.material-icon-theme
 redhat.java
+redhat.vscode-yaml
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
 tombonnike.vscode-status-bar-format-toggle

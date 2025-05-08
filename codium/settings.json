@@ -8,6 +8,7 @@
     "[racket]": {
         "editor.tabSize": 2
     },
+    "breadcrumbs.enabled": false,
     "chat.commandCenter.enabled": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.cursorBlinking": "solid",
@@ -27,7 +28,6 @@
     ],
     "git.autofetch": true,
     "git.confirmSync": false,
-    "haskell.manageHLS": "GHCup",
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.latex.clean.method": "glob",
     "latex-workshop.latex.recipes": [
